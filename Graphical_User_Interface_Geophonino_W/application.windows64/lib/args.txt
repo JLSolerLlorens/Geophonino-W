@@ -1,0 +1,3 @@
+-Xms64m -Xmx256m
+Geophonino_W_MCN
+Geophonino_W_MCN.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar,controlP5.jar,jssc.jar,serial.jar
