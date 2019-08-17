@@ -10,3 +10,5 @@ PCB design in Gerber file format.
 Enclosure designs in stl format.
 
 Recoded data for system characterization and tests.
+
+Geophonino-W data acquisition example.
