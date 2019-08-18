@@ -12,7 +12,7 @@ Enclosure designs in stl format.
 Recoded data for system characterization and tests.
 
 Geophonino-W data acquisition example video.
-
+********************************************************
 
 **Description of files content**
 
