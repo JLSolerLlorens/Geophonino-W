@@ -14,7 +14,7 @@ Recoded data for system characterization and tests.
 Geophonino-W data acquisition example video.
 
 
-*Description of files content
+*Description of files content*
 
 Geophonino_W_ACN.ino: Source code developed for Geophonino-W Acquisition Control Node (ACN). Arduino 1.8.1 IDE must be used to record this file in ACN modules.
 
